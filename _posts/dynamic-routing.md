@@ -1,19 +1,21 @@
 ---
-title: 'Dynamic Routing and Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'ReadBy Introduction'
+excerpt: 'With ReadBy, you can now easily analyze and summarize any article or content that you save. AI will break down the key points and highlights, providing you with Link quick and concise summary that to retrive anytime.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-03-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Zhichang Lin
+  picture: 'https://avatars.githubusercontent.com/u/13105267?v=4'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+ReadBy is an innovative app that utilizes advanced AI technology to help users quickly and easily analyze and summarize articles and other types of content. With ReadBy, users no longer have to spend hours poring over lengthy articles, trying to extract the most relevant information. Instead, they can simply save the article to the app and let the AI technology do the rest.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+So, how does ReadBy work? At its core, the app uses state-of-the-art natural language processing (NLP) algorithms to analyze the text of the article and identify its key points and highlights. This is accomplished using a deep learning model known as ChatGPT, which is based on the GPT-3.5 architecture and has been trained on vast amounts of text data to understand the nuances of language and meaning.
 
-## Lorem Ipsum
+Once the AI has analyzed the article, it produces a concise summary that distills the most important information down to its essential points. This summary is displayed in a small card format, making it easy for users to quickly review and retrieve the key information they need without having to scroll through lengthy text.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+In addition to summarizing articles, ReadBy also sorts them by category for easy access and review. This allows users to quickly find articles related to their interests or specific topics they're researching.
+
+Overall, ReadBy represents a powerful tool for anyone looking to stay up-to-date on the latest news and information. By leveraging advanced AI technology, the app makes it easy to quickly analyze and summarize articles, saving users valuable time and effort. Whether you're a busy professional, a student, or simply someone who loves to stay informed, ReadBy is a must-have app that can help you stay on top of the latest developments in your field.
