@@ -2,7 +2,7 @@
 title: 'Introduction'
 excerpt: 'To break down key points and highlights, producing a quick and concise summary that can be easily retrieved anytime. This feature saves users time and effort that would otherwise be spent reading through lengthy text to extract the most relevant information. With ReadBy, users can stay informed without the burden of investing a lot of time in the process.'
 coverImage: '/assets/blog/readbymkt/RB2.jpg'
-date: '2023-03-16T05:35:07.322Z'
+date: '2023-01-16T05:35:07.322Z'
 author:
   name: Zhichang Lin
   picture: 'https://avatars.githubusercontent.com/u/13105267?v=4'
