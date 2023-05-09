@@ -15,3 +15,5 @@ ReadBy is an app that uses advanced AI technology to analyze and summarize artic
 By producing a concise summary in a small card format, ReadBy simplifies the process of retrieving essential information, enabling users to quickly review articles related to their interests or research topics. The app sorts articles by category for easy access and review, making it a useful tool for anyone who wants to stay up-to-date on the latest news and information.
 
 ReadBy is particularly beneficial for busy professionals, students, or anyone who wants to stay informed without investing too much time and effort in the process. By leveraging AI technology, the app simplifies the task of analyzing and summarizing articles, enabling users to save time and effort while staying on top of the latest developments in their field.
+
+![Quick Snapshot of ReadBy](/assets/blog/introduction/display.png)  
